@@ -2,12 +2,12 @@
    {
       "server":"192.168.56.2",
       "port":4690,
-      "status":"offline"
+      "status":"online"
    },
    {
       "server":"172.16.18.3",
       "port":4690,
-      "status":"offline"
+      "status":"online"
    },
    {
       "server":"192.168.56.2",
@@ -17,6 +17,6 @@
     {
       "server":"43.224.118.50",
       "port":4690,
-      "status":"online"
+      "status":"offline"
    }
 ]
