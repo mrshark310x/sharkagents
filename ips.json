@@ -1,16 +1,16 @@
 [
    {
-      "server":"192.168.1.100",
+      "server":"192.168.56.2",
       "port":4690,
       "status":"online"
    },
    {
-      "server":"192.168.1.100",
+      "server":"192.168.56.2",
       "port":4691,
       "status":"online"
    },
    {
-      "server":"192.168.1.100",
+      "server":"192.168.56.2",
       "port":4692,
       "status":"offline"
    }
